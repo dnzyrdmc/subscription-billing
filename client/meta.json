@@ -1,0 +1,7 @@
+{
+  "day": "01 / 20",
+  "title": "Abonelik ve Fatura Takip Paneli",
+  "description": "Müşteri aboneliklerini ve dönem faturalarını yönet; tekrar ödeme olaylarını güvenle işle.",
+  "mode": "Ödeme olayları simüle edilir",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}
